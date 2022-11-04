@@ -62,7 +62,7 @@
   background-color: rgb(0, 0, 0, 0.6);
   width: 100vw;
   height: 100vh;
-  z-index: 999;
+  z-index: 1021;
 }
 
 .modal__content {
